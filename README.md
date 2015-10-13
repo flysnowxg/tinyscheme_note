@@ -1,6 +1,6 @@
 # tinyscheme注释  
 作者：flysnowxg  
-emal:flysnowxg@qq.com  
+email:flysnowxg@qq.com  
 tinyscheme是一个scheme语言的解释器实现，而这是我大幅修改并加了注释后的tinyscheme（基于tinyscheme1.41）  
 原始代码： http://tinyscheme.sourceforge.net/home.html  
 tinyscheme据说是实现的r5rs标准（应当是实现了一部分，因为模式匹配和语法定义的那部分显然没实现）  
